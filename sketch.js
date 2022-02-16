@@ -155,7 +155,7 @@ function preload(){
   fundoMenu=loadImage('FundoMenu.png');
   evellin=loadImage('Evellin.png');
   elizabete=loadImage("Elizabete.png");
-  //music=loadSound('Music.mp3', playSound);
+  music=loadSound('Music.mp3', playSound);
 }
 
 function playSound(){
